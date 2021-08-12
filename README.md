@@ -33,8 +33,10 @@
 3. Paste either to your file or create a new one named `destyle.css`
 ***
 Tested with:  
-<a href="https://www.browserstack.com">
-  <img src="assets/Browserstack-logo.svg?sanitize=false" alt="browserstack" width="160">
-</a>
 
+<a href="https://www.browserstack.com">
+  <img src="temp/Browserstack-logo.svg?sanitize=false" alt="browserstack" width="160">
+</a> 
+
+***
 📚 More detailed instructions are painted by the author Nicolas Cusan (the link is at the very top)
