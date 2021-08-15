@@ -7,8 +7,8 @@
 ***
 ### ⚠️ What's new I added in version 2.0.3:
 
-1. Removed from all form elements (outline: 0;) since if a custom one is not added it will have a bad effect on availability
-2. The file received a more beautiful design (at least it seems so to me).
+1. Added a fix that fixes placeholder color in Firefox browsers
+2. The file received a more beautiful design (at least it seems so to me)
 3. Added an edit that removes the annoying cross in the `[type="search"]` field
 ***
 ### 💻 Browser support
