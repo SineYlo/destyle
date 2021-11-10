@@ -10,8 +10,7 @@
 1. Added a fix that fixes `placeholder` color in Firefox browsers
 2. The file received a more beautiful design (at least it seems so to me)
 3. Added an edit that removes the annoying cross in the `[type="search"]` field
-4. Removed `font-size: 100%` from `html` tag
-5. Rearranged styles according to the style guide
+4. Rearranged styles according to the style guide
 ***
 ### 💻 Browser support
 - Yandex
