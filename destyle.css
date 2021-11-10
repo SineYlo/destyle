@@ -1,5 +1,5 @@
 /*! destyle.css v3.0.0 | MIT License | https://github.com/nicolas-cusan/destyle.css */
-/*! Some improvements made by SineYlo v3.0.1 | MIT License | https://github.com/SineYlo/Destyle.css  */
+/*! Some improvements made by SineYlo v3.0.2 | MIT License | https://github.com/SineYlo/Destyle.css  */
 
 /*|=============== RESET BOX-MODEL AND SET BORDERS ===============|*/
 *,
@@ -167,6 +167,12 @@ iframe {
   vertical-align: bottom;
 }
 
+/*|CM| These properties will proportionally change the image, and also will not allow it to be larger than its parent. */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 /*|=============== FORMS ===============|*/
 /*|CM| Reset form fields to make them styleable. */
 button,
@@ -243,9 +249,13 @@ progress {
   vertical-align: baseline;
 }
 
-/*|CM| Remove the default vertical scrollbar in IE 10+. */
+/*
+  |CM| 1. Returns the "white-space" property for the textarea element in the safari browser.
+  |CM| 2. Remove the default vertical scrollbar in IE 10+.
+*/
 textarea {
-  overflow: auto;
+  white-space: revert; /* 1 */
+  overflow: auto; /* 2 */
 }
 
 /*|CM| Correct the cursor style of increment and decrement buttons in Chrome. */
@@ -281,13 +291,13 @@ label[for] {
 /*|CM| Remove cross in `search` field in all browsers */
 input[type=text]::-ms-clear {
   display: none;
-  width : 0;
+  width: 0;
   height: 0;
 }
 
 input[type=text]::-ms-reveal {
   display: none;
-  width : 0;
+  width: 0;
   height: 0;
 }
 
