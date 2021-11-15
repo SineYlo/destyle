@@ -15,7 +15,6 @@
 ### 💻 Browser support
 - Yandex
 - Chrome (Chrome Canary)
-- IE
 - Edge
 - Opera
 - Safari (Safari Technology Preview)
