@@ -1,7 +1,7 @@
 # Destyle.css 🛠
 ![Lines of code](https://img.shields.io/tokei/lines/github/sineylo/Destyle.css?style=for-the-badge) ![Code size](https://img.shields.io/github/languages/code-size/SineYlo/Destyle.css?style=for-the-badge) ![GitHub repo size](https://img.shields.io/github/repo-size/SineYlo/Destyle.css?style=for-the-badge) ![GitHub](https://img.shields.io/github/license/SineYlo/Destyle.css?style=for-the-badge)
   
-> This is an updated version of the destyle.css stylesheet.
+> This is an updated version of the destyle.css stylesheet
 
 📌 Author of the original version 3.0.0 - https://github.com/nicolas-cusan/destyle.css 
 
@@ -25,8 +25,11 @@
 1. Clone the given repository using the command - `git clone`
 2. Then select the `.css` or `.scss` file if you write on the preprocessor and copy it to your project
 3. Ready! Now you can start creating a project
-***
-### Tested with:  
+
+## 📚 Changelog
+All subsequent changes will be published in the `Releases` section to the right of this block.
+
+## 💎 Tested with:  
 
 <a href="https://www.browserstack.com">
   <img src="temp/Browserstack-logo.svg?sanitize=false" alt="browserstack" width="160">
