@@ -5,7 +5,7 @@
 
 📌 Author of the original version 3.0.0 - https://github.com/nicolas-cusan/destyle.css 
 ***
-### ⚠️ What's new I added in version 3.0.1:
+### ⚜️ What's new I added in version 3.0.1:
 
 1. Added a fix that fixes `placeholder` color in Firefox browsers
 2. The file received a more beautiful design (at least it seems so to me)
@@ -16,21 +16,15 @@
 - Yandex
 - Chrome (Chrome Canary)
 - Edge
-- Opera
+- Opera (GX, Mini)
 - Safari (Safari Technology Preview)
 - Firefox (Original, Dev, Nightly)
 ***
-### 📄 How to use (option 1):
+### 📄 How to use:
 
-1. Clone the repository
-2. Go to the folder you cloned and extract the `destyle.css` file from there
-3. Move this file to your project
-***
-### 📄 How to use (option 2):
-
-1. Open the file on the project page in github
-2. Copy the code from the `destyle.css` file
-3. Paste either to your file or create a new one named `destyle.css`
+1. Clone the given repository using the command - `git clone`
+2. Then select the `.css` or `.scss` file if you write on the preprocessor and copy it to your project
+3. Ready! Now you can start creating a project
 ***
 Tested with:  
 
