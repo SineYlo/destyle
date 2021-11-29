@@ -32,12 +32,6 @@
 2. Copy the code from the `destyle.css` file
 3. Paste either to your file or create a new one named `destyle.css`
 ***
-### ⚙️ Changelog:
-#### v3.0.2 / 2021-11-10
-- Added `white-space` property with value `revert` to textarea element. This property returns this element for the `Safari` browser
-- Added the `max-width: 100%` and `height: auto` properties to the `img` element, which will allow the element to shrink proportionally and also prevent the image from going beyond the parent's bounds
-- Fixed some bugs that were made in version `3.0.1`
-***
 Tested with:  
 
 <a href="https://www.browserstack.com">
