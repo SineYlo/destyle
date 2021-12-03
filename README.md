@@ -36,4 +36,5 @@ All subsequent changes will be published in the `Releases` section to the right 
 </a> 
 
 ***
-📚 More detailed instructions are painted by the author Nicolas Cusan (the link is at the very top)
+More detailed instructions are painted by the author Nicolas Cusan (the link is at the very top)  
+> Semantic versioning is used on this repository - [semver.org](https://semver.org)
