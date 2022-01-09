@@ -1,5 +1,5 @@
 /*! destyle.css v3.0.0 | MIT License | https://github.com/nicolas-cusan/destyle.css */
-/*! Some improvements made by SineYlo v3.0.2 | MIT License | https://github.com/SineYlo/Destyle.css  */
+/*! Some improvements made by SineYlo v3.0.3 | MIT License | https://github.com/SineYlo/Destyle.css  */
 
 /*|=============== RESET BOX-MODEL AND SET BORDERS ===============|*/
 *,
@@ -333,6 +333,7 @@ summary {
 /*|=============== TABLE ===============|*/
 table {
   border-color: inherit;
+  border-collapse: collapse;
 }
 
 caption {
