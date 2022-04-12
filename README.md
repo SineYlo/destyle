@@ -58,7 +58,7 @@ Which of these to choose is up to you. It is important to remember one detail. C
 ```
 ```
 - Question: Why are there no minified versions for SCSS?
-- Answer: Because I'm counting on the fact that you have a project builder, for example, Gulp.
+- Answer: Because I'm counting on the fact that you have a project builder, for example, Gulp or Webpack.
 ```
 ```
 - Question: Will this version be uploaded to NPM?
@@ -69,7 +69,7 @@ Which of these to choose is up to you. It is important to remember one detail. C
 - Answer: You can write to the issues section or make a pull request.
 ```
 
-## 🔱 With the support of:  
+## 🔱 Created with the support of 
 
 <a href="https://www.browserstack.com">
   <img src="temp/Browserstack-logo.svg?sanitize=false" width="200" alt="browserstack">
