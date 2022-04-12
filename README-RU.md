@@ -73,4 +73,4 @@ gh repo clone SineYlo/destyle
 
 ## 📃 Что используется в этом репозитории
 - Семантическое управление версиями - [semver.org](https://semver.org)
-- Соглашение о коммитах - [conventionalcommits.org](https://www.conventionalcommits.org/en/v1.0.0/)
+- Соглашение о коммитах - [conventionalcommits.org](https://www.conventionalcommits.org/ru/v1.0.0/)
