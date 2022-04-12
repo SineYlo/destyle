@@ -51,7 +51,7 @@ Which of these to choose is up to you. It is important to remember one detail. C
 | Yandex  | 14.12       | Successfully |
 | Safari  | 13.1 - 15.3 | Successfully |
 
-## 🔑 F.A.Q
+## 🔑 FAQ
 ```
 - Question: Which of the three reset options should I choose?
 - Answer: All options are good, but for example I use resetting through classes.
