@@ -1,5 +1,5 @@
 // ! destyle.css v3.0.0 | MIT License | https://github.com/nicolas-cusan/destyle.css
-// ! Some improvements made by SineYlo v3.2.0 | MIT License | https://github.com/SineYlo/destyle
+// ! Some improvements made by SineYlo v3.2.1 | MIT License | https://github.com/SineYlo/destyle
 
 // #---> RESET BOX-MODEL AND SET BORDERS
 // ==================================================
@@ -64,7 +64,7 @@
 // #---> LISTS (DEFINITION)
 // ==================================================
 @mixin dt-dereset {
-  font-weight: bold;
+  font-weight: 700;
 }
 
 @mixin dd-dereset {
@@ -412,6 +412,6 @@
 @mixin th-dereset {
   vertical-align: top;
   padding: 0;
-  font-weight: bold;
+  font-weight: 700;
   text-align: left;
 }
